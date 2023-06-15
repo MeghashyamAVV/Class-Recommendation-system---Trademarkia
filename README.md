@@ -1,1 +1,1 @@
-# Class-Recommendation-system---Trademarkia
+# Class Recommendation System-Trademarkia
