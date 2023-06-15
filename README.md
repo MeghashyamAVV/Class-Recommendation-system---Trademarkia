@@ -42,4 +42,10 @@ structure for the project:
   - shuffled_file.json (cleaned data used for generating the weights file)
   - main.py ( "to generate the weights file i.e."mymodel.h5" )
 
+after Running on http://127.0.0.1:5000  :
 
+![imgmain](https://github.com/MeghashyamAVV/Class-Recommendation-system---Trademarkia/assets/89058234/86523de4-ea22-4f2f-a23b-7b4d4cc904a5)
+
+after prediction:
+
+![imgmain2](https://github.com/MeghashyamAVV/Class-Recommendation-system---Trademarkia/assets/89058234/5176e585-028f-432c-a766-9f75c1b65f01)
