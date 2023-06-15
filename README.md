@@ -28,3 +28,18 @@ It's important to note that achieving 100% accuracy in trademark class recommend
 I was continuously working on improving the accuracy of the model by exploring advanced techniques, incorporating additional data sources, and leveraging user feedback to enhance the recommendation system.
 
 Overall, the aim of this project is to offer a powerful and user-friendly solution for trademark class recommendation. It assists businesses and developers in accurately classifying their goods and services for intellectual property purposes, saving them time and effort in the trademark registration process.
+
+
+structure for the project:
+
+- project_directory( Any name for the folder )
+  - app.py  
+  - templates
+    - index.html
+  - mymodel.h5 (weights file)
+  - tokenizer.json
+  - label_encoder.json 
+  - shuffled_file.json (cleaned data used for generating the weights file)
+  - main.py ( "to generate the weights file i.e."mymodel.h5" )
+
+
